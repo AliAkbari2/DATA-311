@@ -9,6 +9,6 @@ Course Hours:
 Prerequisite(s):  
 Data Science 201; and 3 units from Data Science 211, Computer Science 217, 231, 235 or Engineering 233.  
 
-Instructor: Jaspreet Kaur
-TA: Fatemeh P.
-Overall grade: A
+Instructor: Jaspreet Kaur  
+TA: Fatemeh P.  
+Overall grade: A  
